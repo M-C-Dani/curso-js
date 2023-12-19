@@ -47,6 +47,13 @@ habrá un objeto que serán dependencias y otro que se llamará dependencias de 
 [[eslint]]
 [[prettier]]
 
+- Para que nuestro proyecto nos busque errores y nos los señale necesita un lintern
+- así que vamos a nmp y buscamos linter javascript
+
+podemos ordenar por distintos metodos segun si queremos el mas optimo, mas popular etc
+![[Pasted image 20231219104322.png||400]]
+
+
 
 ## Fichero de dependencias
 
