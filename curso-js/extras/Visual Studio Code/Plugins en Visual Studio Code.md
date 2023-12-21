@@ -52,4 +52,8 @@ Muestra listado de etiquetas
 ## [Snippets para ecosistema React y ES7](ES7+ React/Redux/React-Native snippetsES7+ React/Redux/React-Native snippets)
 
 
+[[Visual Code con extensiones]]
+
+
+
 
